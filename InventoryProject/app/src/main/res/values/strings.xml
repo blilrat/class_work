@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">Inventory Project</string>
+
+    <!-- Label for overflow menu option that inserts fake inventory data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all inventory data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Inventory</string>
+
+    <!-- Title text for the empty view[CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to add an item [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Get started by adding an item</string>
+
+    <!-- Title for the activity to add a new item [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_inventory">Add an Item</string>
+
+    <!-- Title for the activity to edit an existing item [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_edit_inventory">Edit Item</string>
+
+    <!-- Label for editor menu option to save inventory and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current inventory [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Dialog button text for the option to confirm selling[CHAR LIMIT=20] -->
+    <string name="action_sale">Amount sold</string>
+
+    <!-- Dialog button text for the option to confirm receivig new items [CHAR LIMIT=20] -->
+    <string name="action_receive">Amount Received</string>
+
+    <!-- Dialog button text for the option to place an order [CHAR LIMIT=20] -->
+    <string name="action_order">Place Order with Supplier</string>
+
+    <!-- Toast message in editor when new inventory has been successfully inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_inventory_successful">Item saved</string>
+
+    <!-- Toast message in editor when new inventory has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_inventory_failed">Error with saving item</string>
+
+    <!-- Toast message in editor when current inventory was successfully updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_inventory_successful">Item updated</string>
+
+    <!-- Toast message in editor when current inventory has failed to be updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_inventory_failed">Error with updating item</string>
+
+    <!-- Dialog message when user is leaving editor but hasn't saved changes [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+
+    <!-- Dialog button text for the option to keep editing the current inventory [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+
+    <!-- Toast message in editor when current inventory was successfully deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_inventory_successful">Item deleted</string>
+
+    <!-- Toast message in editor when current inventory has failed to be deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_inventory_failed">Error with deleting inventory</string>
+
+    <!-- Dialog message to ask the user to confirm deleting the current inventory [CHAR LIMIT=NONE] -->
+    <string name="delete_dialog_msg">Delete this inventory?</string>
+
+    <!-- Dialog button text for the option to confirm deleting the current inventory [CHAR LIMIT=20] -->
+    <string name="delete">Delete</string>
+
+    <!-- Dialog button text for the option to cancel deletion of the current inventory [CHAR LIMIT=20] -->
+    <string name="cancel">Cancel</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+
+    <!-- Label for measurement information in the editor [CHAR LIMIT=30] -->
+    <string name="category_measurement">Price USD</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_inventory_name">Name</string>
+
+    <!-- Text hint for price field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_inventory_price">Price</string>
+
+    <!-- Text hint for qty field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_inventory_qty">Qty Available</string>
+
+    <!-- Text hint for supplier field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_inventory_supplier">Supplier</string>
+
+    <!-- Units for price of the inventory [CHAR LIMIT=5] -->
+    <string name="unit_inventory_price">$</string>
+
+    <!-- Units for qty remaining [CHAR LIMIT=5] -->
+    <string name="unit_inventory_available">Units Available</string>
+
+    <!-- Number of units sold [CHAR LIMIT=5] -->
+    <string name="qty_sold_text">How many were sold?</string>
+
+    <!-- image button text [CHAR LIMIT=5] -->
+    <string name="image_chooser_text">Choose product image from gallery.</string>
+
+    <!-- Number of units received [CHAR LIMIT=5] -->
+    <string name="qty_received_text">How many to receive?</string>
+
+    <!-- email supplier string [CHAR LIMIT=5] -->
+    <string name="email_supplier_text">Hello \u0020</string>
+
+    <!-- email supplier string [CHAR LIMIT=5] -->
+    <string name="email_item_text">I would like to place an order for: \u0020</string>
+
+    <!-- email supplier string [CHAR LIMIT=5] -->
+    <string name="email_qty_text">Quantity: \u0020</string>
+
+    <!-- email supplier string [CHAR LIMIT=5] -->
+    <string name="email_signature_text">Regards, Inventory App</string>
+
+</resources>
