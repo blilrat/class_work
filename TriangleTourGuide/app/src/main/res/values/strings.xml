@@ -1,0 +1,185 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Triangle Tour Guide</string>
+
+    <!-- Category name for trails [CHAR LIMIT=20] -->
+    <string name="category_trails">MTB Trails</string>
+
+    <!-- Category name for bakeries [CHAR LIMIT=20] -->
+    <string name="category_bakeries">Bakeries</string>
+
+    <!-- Category name for breweries [CHAR LIMIT=20] -->
+    <string name="category_breweries">Micro Breweries</string>
+
+    <!-- Category name for restaurants [CHAR LIMIT=20] -->
+    <string name="category_museums">Museums</string>
+
+    <!-- Trail 1 Name -->
+    <string name="rtp">RTP</string>
+
+    <!-- Trail 2 Name -->
+    <string name="crabtree_park">Crabtree Park</string>
+
+    <!-- Trail 3 Name -->
+    <string name="new_light">New Light</string>
+
+    <!-- Trail 4 Name -->
+    <string name="briar_chapel">Briar Chapel</string>
+
+    <!-- Trail 5 Name -->
+    <string name="san_lee_gravity">San Lee Gravity Park</string>
+
+    <!-- Trail 6 Name -->
+    <string name="old_reedy_creek">Old Reedy Creek</string>
+
+    <!-- Trail 7 Name -->
+    <string name="umstead">Umstead Park</string>
+
+    <!-- Trail 1 GPS Location -->
+    <string name="rtp_gps">GPS: 35.8524952,-78.8880501</string>
+
+    <!-- Trail 2 GPS Location -->
+    <string name="crabtree_park_gps">GPS: 35.8456256,-78.8011745</string>
+
+    <!-- Trail 3 GPS Location -->
+    <string name="new_light_gps">GPS: 36.0309688,-78.6592346</string>
+
+    <!-- Trail 4 GPS Location -->
+    <string name="briar_chapel_gps">GPS: 35.828776,-79.108565</string>
+
+    <!-- Trail 5 GPS Location -->
+    <string name="san_lee_gravity_gps">GPS: 35.4837707,-79.1216629</string>
+
+    <!-- Trail 6 GPS Location -->
+    <string name="old_reedy_creek_gps">GPS: 35.8346343,-78.7622147</string>
+
+    <!-- Trail 7 GPS Location -->
+    <string name="umstead_gps">GPS: 35.8346343,-78.7622147</string>
+
+    <!-- Bakery 1 Name -->
+    <string name="boulted">Boulted Bread</string>
+
+    <!-- Bakery 2 Name -->
+    <string name="la_farm">La Farm</string>
+
+    <!-- Bakery 3 Name -->
+    <string name="lucettegrace">Lucettegrace</string>
+
+    <!-- Bakery 4 Name -->
+    <string name="groovy_duck">Groovy Duck</string>
+
+    <!-- Bakery 5 Name -->
+    <string name="neomonde">Neomonde Bakery and Deli</string>
+
+    <!-- Bakery 6 Name -->
+    <string name="bittersweet">Bittersweet</string>
+
+    <!-- Bakery 7 Name -->
+    <string name="the_morning_times">The Morning Times</string>
+
+    <!-- Bakery 1 Address -->
+    <string name="boulted_add">614 W South St, Raleigh, NC 27603</string>
+
+    <!-- Bakery 2 Address -->
+    <string name="la_farm_add">4248 NW Cary Pkwy, Cary, NC 27513</string>
+
+    <!-- Bakery 3 Address -->
+    <string name="lucettegrace_add">235 South Salisbury St, Raleigh, NC 27601</string>
+
+    <!-- Bakery 4 Address -->
+    <string name="groovy_duck_add">3434 Edwards Mill Rd, Raleigh, NC 27612</string>
+
+    <!-- Bakery 5 Address -->
+    <string name="neomonde_add">3817 Beryl Rd, Raleigh, NC 27607</string>
+
+    <!-- Bakery 6 Address -->
+    <string name="bittersweet_add">16 E Martin St, Raleigh, NC 27601</string>
+
+    <!-- Bakery 7 Address -->
+    <string name="the_morning_times_add">10 E Hargett St, Raleigh, NC 27601</string>
+
+    <!-- Micro Brewery 1 Name -->
+    <string name="crankarm">Crank Arm Brewing</string>
+
+    <!-- Micro Brewery 2 Name -->
+    <string name="brueprint">Brueprint Brewing Company</string>
+
+    <!-- Micro Brewery 3 Name -->
+    <string name="fortnight">Fortnight Brewing Company</string>
+
+    <!-- Micro Brewery 4 Name -->
+    <string name="lonerider">Lonerider</string>
+
+    <!-- Micro Brewery 5 Name -->
+    <string name="neuseriver">Neuse River Brewing Company</string>
+
+    <!-- Micro Brewery 6 Name -->
+    <string name="aviator">Aviator Brewing Company</string>
+
+    <!-- Micro Brewery 7 Name -->
+    <string name="bombshell">Bombshell Beer Company</string>
+
+    <!-- Micro Brewery 1 Address -->
+    <string name="crankarm_add">319 West Davie Street / Raleigh</string>
+
+    <!-- Micro Brewery 2 Address -->
+    <string name="brueprint_add">1229 Perry Rd #101 / Apex</string>
+
+    <!-- Micro Brewery 3 Address -->
+    <string name="fortnight_add">1006 SW Maynard Road / Cary</string>
+
+    <!-- Micro Brewery 4 Address -->
+    <string name="lonerider_add">8816 Gulf Ct #100 / Raleigh</string>
+
+    <!-- Micro Brewery 5 Address -->
+    <string name="neuseriver_add">518 Pershing Road / Raleigh</string>
+
+    <!-- Micro Brewery 6 Address -->
+    <string name="aviator_add"> 600 East Broad Street / Fuquay-Varina</string>
+
+    <!-- Micro Brewery 7 Address -->
+    <string name="bombshell_add">120 Quantum Dr / Holly Springs</string>
+
+    <!-- Museum 1 Name -->
+    <string name="ncmuseumofart">NC Museum of Art</string>
+
+    <!-- Museum 2 Name -->
+    <string name="ncmuseumofnatscience">NC Museum of Natural Sciences</string>
+
+    <!-- Museum 3 Name -->
+    <string name="ncmuseumofhistory">NC Museum of History</string>
+
+    <!-- Museum 4 Name -->
+    <string name="marbleskids">Marbles Kids Museum</string>
+
+    <!-- Museum 5 Name -->
+    <string name="cityofraleigh">City of Raleigh Museum</string>
+
+    <!-- Museum 6 Name -->
+    <string name="popehouse">Pope House Museum</string>
+
+    <!-- Museum 7 Name -->
+    <string name="lifeandscience">Museum of Life and Science</string>
+
+    <!-- Museum 1 Address -->
+    <string name="ncmuseumofart_add">2110 Blue Ridge Road, Raleigh, NC 27607</string>
+
+    <!-- Museum 2 Address -->
+    <string name="ncmuseumofnatsciences_add">11 W Jones St, Raleigh, NC 27601</string>
+
+    <!-- Museum 3 Address -->
+    <string name="ncmuseumofhistory_add">5 E Edenton St, Raleigh, NC 27601</string>
+
+    <!-- Museum 4 Address -->
+    <string name="marbleskids_add">201 E Hargett St, Raleigh, NC 27601</string>
+
+    <!-- Museum 5 Address -->
+    <string name="cityofraleigh_add">220 Fayetteville St, Raleigh, NC 27601</string>
+
+    <!-- Museum 6 Address -->
+    <string name="popehouse_add">511 S Wilmington St, Raleigh, NC 27601</string>
+
+    <!-- Museum 7 Address -->
+    <string name="lifeandscience_add">433 W Murray Ave, Durham, NC 27704</string>
+
+</resources>
