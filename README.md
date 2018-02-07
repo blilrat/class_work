@@ -1,5 +1,5 @@
 # class_work
-Apps written for my nanodegree
+Short description of the apps written for my nanodegree and the intended learned skill to showcase.
 
 # GolfShotCounter
 This project is about combining various ideas and skills we’ve been practicing throughout the course. They include:
