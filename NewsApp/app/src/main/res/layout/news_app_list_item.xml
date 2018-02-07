@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Layout for a single list item -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="110dp"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/section"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="@android:color/black"
+        android:textSize="14sp"
+        tools:text="US" />
+
+    <TextView
+        android:id="@+id/primary_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="2"
+        android:textColor="@color/textColorNewsInfoTitle"
+        android:textSize="16sp"
+        tools:text="Long placeholder title that should wrap to more than 2 lines of text" />
+
+    <TextView
+        android:id="@+id/contributor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/textColorNewsInfoTitle"
+        android:textSize="12sp"
+        tools:text="Author" />
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:textColor="@color/textColorNewsInfoTitle"
+        android:textSize="12sp"
+        tools:text="Mar 6, 2010" />
+
+</LinearLayout>
