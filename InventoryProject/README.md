@@ -1,7 +1,7 @@
 Inventory Project
 ===================================
 
-This is a simple inventory app.
+This is a simple inventory app.  The main purpose is to show a SQL Lite DB in Android.
 Used in a Udacity course in the Android Basics Nanodegree by Google.
 
 Pre-requisites
